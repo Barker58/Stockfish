@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#hello! Stockfish is pretty great maybe one day I will beat it 
 #
 # Returns properties of the native system.
 # best architecture as supported by the CPU
